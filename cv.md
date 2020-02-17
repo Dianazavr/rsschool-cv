@@ -1,8 +1,9 @@
 # Diana Skoromnikova #
 
 - *Contact Info*</br>
-d.skoromnikova@mail.ru</br>
-+375447432624 vel
++375447432624 vel</br>
+d.skoromnikova@mail.ru
+
 
 - *Summery*</br>
 First of all want to try my hand as a Front-end developer. And if I have a clear success in this, I will develop my skills further.
