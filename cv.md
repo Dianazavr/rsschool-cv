@@ -1,4 +1,3 @@
-# hi
 # Diana Skoromnikova #
 
 - *Contact Info*</br>
