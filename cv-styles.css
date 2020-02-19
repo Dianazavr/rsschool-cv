@@ -1,1 +1,26 @@
+.contact-class{
+   font-size: 24px;
+   font-weight: 800;
+   color: rgb(97, 46, 145);
+}
+
+img{
+    max-height: 500px;
+    float: right;
+    margin: 10px;
+    
+}
+
+p{
+    font-size: 20px;
+font-weight: 500;
+}
+h1{
+    text-align: center;
+    font-size: 28px;
     color: rgb(13, 65, 33)
+}
+boby{
+    max-width: 1024px;
+    margin: 0 auto;
+}
